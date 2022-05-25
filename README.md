@@ -1,5 +1,5 @@
 ### Hi there, this is [Xiaocan Li (李晓璨)](https://xiaocanli.github.io/) 👋
-- I am a postdoctoral researcher working at the [Department of Physics and Astronomy](https://physics.dartmouth.edu/) of Dartmouth College now.
+- I am a research scientist working at the [Department of Physics and Astronomy](https://physics.dartmouth.edu/) of Dartmouth College now.
 - I am studying particle acceleration processes in magnetic reconnection and plasma turbulence through numerical simulations. I aim to explain the origin of the energetic particles in solar flares and other explosive astrophysical events.
 - 🌱 I’m currently working on
     * [stochastic-parker](https://github.com/xiaocanli/stochastic-parker): a code solving Parker's transport equation using the stochastic method.
