@@ -1,10 +1,10 @@
 ### Hi there, this is [Xiaocan Li (李晓璨)](https://xiaocanli.github.io/) 👋
-- I am a research scientist working at the [Department of Physics and Astronomy](https://physics.dartmouth.edu/) of Dartmouth College now.
+- I am a staff scientist working at Los Alamos National Lab.
 - I am studying particle acceleration processes in magnetic reconnection and plasma turbulence through numerical simulations. I aim to explain the origin of the energetic particles in solar flares and other explosive astrophysical events.
 - 🌱 I’m currently working on
     * [stochastic-parker](https://github.com/xiaocanli/stochastic-parker): a code solving particle transport equations using the stochastic method.
 - 📫 How to reach me:
-    * Email: Xiaocan.Li@dartmouth.edu
+    * Email: phyxiaolee@gmail.com
     * Website: https://xiaocanli.github.io/
     * <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width=20px> My Github: [xiaocanli](https://github.com/xiaocanli)
 
