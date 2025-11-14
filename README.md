@@ -1,26 +1,60 @@
-### Hi there, this is [Xiaocan Li (李晓璨)](https://xiaocanli.github.io/) 👋
-- I am a staff scientist working at Los Alamos National Lab.
-- I am studying particle acceleration processes in magnetic reconnection and plasma turbulence through numerical simulations. I aim to explain the origin of the energetic particles in solar flares and other explosive astrophysical events.
-- 🌱 I’m currently working on
-    * [stochastic-parker](https://github.com/xiaocanli/stochastic-parker): a code solving particle transport equations using the stochastic method.
-- 📫 How to reach me:
-    * Email: phyxiaolee@gmail.com
-    * Website: https://xiaocanli.github.io/
-    * <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width=20px> My Github: [xiaocanli](https://github.com/xiaocanli)
+# 👋 Hi, I'm [Xiaocan Li (李晓璨)](https://xiaocanli.github.io/)
 
+[![Website](https://img.shields.io/badge/Website-xiaocanli.github.io-blue)](https://xiaocanli.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-xiaocanli-black?logo=github)](https://github.com/xiaocanli)
+[![Google Scholar](https://img.shields.io/badge/Scholar-Xiaocan%20Li-4885ed?logo=google-scholar\&logoColor=white)](https://scholar.google.com/)
 
-<!--
-**xiaocanli/xiaocanli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **staff scientist at Los Alamos National Laboratory (LANL)** working on the physics of **magnetic reconnection**, **plasma turbulence**, and **energetic-particle acceleration**.
+My research combines **large-scale kinetic simulations**, **transport modeling**, and **high-performance computing** to understand energetic particles in **solar flares**, **heliospheric plasmas**, and **astrophysical systems**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Focus
+
+* **Energetic-particle acceleration & transport** in reconnection and turbulence
+* **High-performance kinetic simulations** (PIC, hybrid-PIC, MHD)
+* Development of advanced tools:
+
+  * **[stochastic-parker](https://github.com/xiaocanli/stochastic-parker)** — stochastic solver for particle transport equations
+  * **VPIC-Kokkos** for large-scale GPU supercomputers
+  * **Hybrid-PIC + transport frameworks** for heliophysics & astrophysics
+
+---
+
+## 🧠 Research Interests
+
+* Magnetic reconnection & plasma turbulence
+* Particle acceleration across solar, heliospheric, and astrophysical environments
+* Multi-scale modeling: PIC → hybrid → MHD → transport
+* HPC on leadership-class machines (Frontier, Perlmutter, Aurora, …)
+* Advanced diagnostics (turbulence spectra, mixing factor, energetic-particle SDE methods)
+
+---
+
+## 📘 Selected Projects
+
+* **stochastic-parker**
+  Stochastic Monte-Carlo solver for Parker / focused-transport equations.
+
+* **GPAT-K (in progress)**
+  Next-generation energetic-particle transport framework (Kokkos + Cabana).
+
+* **Reconnection & turbulence simulations**
+  Using VPIC-Kokkos, hybrid-PIC, and MHD codes to study energy conversion and particle energization.
+
+* **Solar flare & heliospheric modeling**
+  Particle acceleration in solar flares, heliospheric current sheets, and large-scale eruptions.
+
+---
+
+## 📫 Contact
+
+* **Email:** [phyxiaolee@gmail.com](mailto:phyxiaolee@gmail.com)
+* **Website:** [https://xiaocanli.github.io/](https://xiaocanli.github.io/)
+* **GitHub:** [github.com/xiaocanli](https://github.com/xiaocanli)
+
+---
+
+Recent updates can be found on **[https://xiaocanli.github.io/](https://xiaocanli.github.io/)**.
+
 
