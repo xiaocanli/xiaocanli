@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Website-xiaocanli.github.io-blue)](https://xiaocanli.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-xiaocanli-black?logo=github)](https://github.com/xiaocanli)
-[![Google Scholar](https://img.shields.io/badge/Scholar-Xiaocan%20Li-4885ed?logo=google-scholar\&logoColor=white)]([https://scholar.google.com/](https://scholar.google.com/citations?user=HvM9gWgAAAAJ&hl=en&oi=ao))
+[![Google Scholar](https://img.shields.io/badge/Scholar-Xiaocan%20Li-4885ed?logo=google-scholar\&logoColor=white)](https://scholar.google.com/citations?user=HvM9gWgAAAAJ&hl=en&oi=ao)
 
 I am a **staff scientist at Los Alamos National Laboratory (LANL)** working on the physics of **magnetic reconnection**, **plasma turbulence**, and **energetic-particle acceleration**.
 My research combines **large-scale kinetic simulations**, **transport modeling**, and **high-performance computing** to understand energetic particles in **solar flares**, **heliospheric plasmas**, and **astrophysical systems**.
