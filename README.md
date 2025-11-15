@@ -17,7 +17,7 @@ My research combines **large-scale kinetic simulations**, **transport modeling**
 
   * **[stochastic-parker](https://github.com/xiaocanli/stochastic-parker)** — stochastic solver for particle transport equations
   * **VPIC-Kokkos** for large-scale GPU supercomputers
-  * **Hybrid-PIC + transport frameworks** for heliophysics & astrophysics
+  * **HybridVPIC-K + transport frameworks** for heliophysics & astrophysics
 
 ---
 
@@ -27,7 +27,7 @@ My research combines **large-scale kinetic simulations**, **transport modeling**
 * Particle acceleration across solar, heliospheric, and astrophysical environments
 * Multi-scale modeling: PIC → hybrid → MHD → transport
 * HPC on leadership-class machines (Frontier, Perlmutter, Aurora, …)
-* Advanced diagnostics (turbulence spectra, mixing factor, energetic-particle SDE methods)
+* Advanced diagnostics (turbulence properties, energetic-particle diagnostics)
 
 ---
 
@@ -36,11 +36,11 @@ My research combines **large-scale kinetic simulations**, **transport modeling**
 * **stochastic-parker**
   Stochastic Monte-Carlo solver for Parker / focused-transport equations.
 
-* **GPAT-K (in progress)**
+* **GPATS (in progress)**
   Next-generation energetic-particle transport framework (Kokkos + Cabana).
 
 * **Reconnection & turbulence simulations**
-  Using VPIC-Kokkos, hybrid-PIC, and MHD codes to study energy conversion and particle energization.
+  Using VPIC-Kokkos, HybridVPIC-K, and MHD codes to study energy conversion and particle energization.
 
 * **Solar flare & heliospheric modeling**
   Particle acceleration in solar flares, heliospheric current sheets, and large-scale eruptions.
