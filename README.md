@@ -1,60 +1,18 @@
-# 👋 Hi, I'm [Xiaocan Li (李晓璨)](https://xiaocanli.github.io/)
+# Xiaocan Li
 
-[![Website](https://img.shields.io/badge/Website-xiaocanli.github.io-blue)](https://xiaocanli.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-xiaocanli-black?logo=github)](https://github.com/xiaocanli)
-[![Google Scholar](https://img.shields.io/badge/Scholar-Xiaocan%20Li-4885ed?logo=google-scholar\&logoColor=white)](https://scholar.google.com/citations?user=HvM9gWgAAAAJ&hl=en&oi=ao)
+Staff Scientist, Theoretical Division (T-2), [Los Alamos National Laboratory](https://www.lanl.gov/).
 
-I am a **staff scientist at Los Alamos National Laboratory (LANL)** working on the physics of **magnetic reconnection**, **plasma turbulence**, and **energetic-particle acceleration**.
-My research combines **large-scale kinetic simulations**, **transport modeling**, and **high-performance computing** to understand energetic particles in **solar flares**, **heliospheric plasmas**, and **astrophysical systems**.
+I build multi-scale models that explain how magnetized plasmas convert stored energy into energetic particles in solar, space, and astrophysical environments. Most projects blend large-scale particle-in-cell, hybrid, and MHD simulations with energetic-particle transport solvers.
 
----
+## Current focus
 
-## 🔭 Current Focus
+- **3D reconnection campaigns** -- GPU-accelerated 3D VPIC and hybrid simulations to study reconnection-driven turbulence.
+- **Coupled particle transport** -- Multi-scale transport solvers to predict solar energetic particle release and space-weather risks.
+- **Observation-driven workflows** -- Embedding X-ray, radio, and laboratory diagnostics into simulation pipelines for model validation.
 
-* **Energetic-particle acceleration & transport** in reconnection and turbulence
-* **High-performance kinetic simulations** (PIC, hybrid-PIC, MHD)
-* Development of advanced tools:
+## Links
 
-  * **[stochastic-parker](https://github.com/xiaocanli/stochastic-parker)** — stochastic solver for particle transport equations
-  * **VPIC-Kokkos** for large-scale GPU supercomputers
-  * **HybridVPIC-K + transport frameworks** for heliophysics & astrophysics
-
----
-
-## 🧠 Research Interests
-
-* Magnetic reconnection & plasma turbulence
-* Particle acceleration across solar, heliospheric, and astrophysical environments
-* Multi-scale modeling: PIC → hybrid → MHD → transport
-* HPC on leadership-class machines (Frontier, Perlmutter, Aurora, …)
-* Advanced diagnostics (turbulence properties, energetic-particle diagnostics)
-
----
-
-## 📘 Selected Projects
-
-* **stochastic-parker**
-  Stochastic Monte-Carlo solver for Parker / focused-transport equations.
-
-* **GPATS (in progress)**
-  Next-generation energetic-particle transport framework (Kokkos + Cabana).
-
-* **Reconnection & turbulence simulations**
-  Using VPIC-Kokkos, HybridVPIC-K, and MHD codes to study energy conversion and particle energization.
-
-* **Solar flare & heliospheric modeling**
-  Particle acceleration in solar flares, heliospheric current sheets, and large-scale eruptions.
-
----
-
-## 📫 Contact
-
-* **Email:** [phyxiaolee@gmail.com](mailto:phyxiaolee@gmail.com)
-* **Website:** [https://xiaocanli.github.io/](https://xiaocanli.github.io/)
-* **GitHub:** [github.com/xiaocanli](https://github.com/xiaocanli)
-
----
-
-Recent updates can be found on **[https://xiaocanli.github.io/](https://xiaocanli.github.io/)**.
-
-
+- Website: <https://xiaocanli.github.io/>
+- Google Scholar: [Xiaocan Li](https://scholar.google.com/citations?user=HvM9gWgAAAAJ)
+- ORCID: [0000-0001-5278-8029](https://orcid.org/0000-0001-5278-8029)
+- Email: [phyxiaolee@gmail.com](mailto:phyxiaolee@gmail.com)
