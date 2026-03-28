@@ -7,7 +7,7 @@ I build multi-scale models that explain how magnetized plasmas convert stored en
 ## Current focus
 
 - **3D reconnection campaigns** -- GPU-accelerated 3D VPIC and hybrid simulations to study reconnection-driven turbulence.
-- **Coupled particle transport** -- Multi-scale transport solvers to predict solar energetic particle release and space-weather risks.
+- **Coupled particle transport** -- Multi-scale transport solvers to energetic particle acceleration and transport.
 - **Observation-driven workflows** -- Embedding X-ray, radio, and laboratory diagnostics into simulation pipelines for model validation.
 
 ## Links
